@@ -3,7 +3,7 @@
 > An IoT-based smart bag security system for theft detection, real-time tracking, and user alerts.
 
 <p align="center">
-  <img src="/Users/nethsandukumarasinghe/Documents/ENTC/MagTag/images/magtag.png" alt="MagTag Project Banner" width="700">
+  <img src="images/magtag.png" alt="MagTag Project Banner" width="700">
 </p>
 
 <p align="center">
